@@ -1,5 +1,3 @@
 # AOC2017
 
-
-
-dmawldnaldkjnajkdnaw
+Advent of code 2017
